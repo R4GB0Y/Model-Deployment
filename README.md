@@ -8,7 +8,7 @@ Experience the efficiency of deploying Natural Language Processing (NLP) models 
    - **API Testing Screenshots:** Visual evidence of API functionality, featuring FastAPI and Postman interfaces.
      - ![FastAPI Interface](https://github.com/R4GB0Y/Model-Deployment/blob/main/fastAPI1.PNG?raw=true)
 
-     - ![Postman Test](https://github.com/R4GB0Y/Model-Deployment/assets/76519142/4dbf6aee-1aac-4802-829f-32f8adbdbb46)
+     - ![Postman Test](https://github.com/R4GB0Y/Model-Deployment/blob/main/postman1.PNG?raw=true)
 
 ## 2. API Containerization with Docker
 Streamline your deployment process with Docker. This section demonstrates:
