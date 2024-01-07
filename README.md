@@ -14,19 +14,19 @@ Experience the efficiency of deploying Natural Language Processing (NLP) models 
 Streamline your deployment process with Docker. This section demonstrates:
    - **Docker Container Setup:** Detailed instructions for encapsulating the API in a Docker container.
    - **Deployment Screenshots:** Visual guides to assist in Docker containerization.
-     - ![Docker Setup](https://github.com/R4GB0Y/Model-Deployment/assets/76519142/2d217a68-ab58-4d0b-8a94-ef82911b7465)
+     - ![Docker Setup](https://github.com/R4GB0Y/Model-Deployment/blob/main/fastAPI2.PNG?raw=true)
 
 ## 3. TensorFlow Extended (TFX) for Model Serving
 Leverage TensorFlow Extended (TFX) for deploying transformer models. Highlights include:
    - **TFX Model Serving:** Guide to serve models efficiently using TensorFlow Extended.
    - **Deployment Screenshot:** Visual proof of TFX in action.
-     - ![TFX Model Serving](https://github.com/R4GB0Y/Model-Deployment/assets/76519142/91abfd16-4424-4511-ac56-3127d06a80c1)
+     - ![TFX Model Serving](https://github.com/R4GB0Y/Model-Deployment/blob/main/postman2.PNG?raw=true)
 
 ## 4. Load Testing with Locust
 Assess the robustness of your deployments under varying loads using Locust. This includes:
    - **Performance Testing Guide:** Detailed instructions for conducting load tests.
    - **Locust Testing Screenshot:** Evidence of load testing in practice.
-     - ![Locust Load Test]([https://github.com/R4GB0Y/Model-Deployment/assets/76519142/57675693-de26-41af-aac5-45706db5e5f0](https://github.com/R4GB0Y/Model-Deployment/blob/main/result.PNG))
+     - ![Locust Load Test](https://github.com/R4GB0Y/Model-Deployment/blob/main/result.PNG?raw=true)
 
 ## Getting Started
 To begin, navigate to the respective directories for detailed instructions on each deployment method:
