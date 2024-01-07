@@ -6,7 +6,8 @@ Welcome to the Model Deployment Testing Laboratory. Here, we explore different m
 Experience the efficiency of deploying Natural Language Processing (NLP) models with FastAPI. This section includes:
    - **NLP Model Deployment:** Steps to deploy a transformer model using FastAPI.
    - **API Testing Screenshots:** Visual evidence of API functionality, featuring FastAPI and Postman interfaces.
-     - ![FastAPI Interface](https://github.com/R4GB0Y/Model-Deployment/assets/76519142/2d217a68-ab58-4d0b-8a94-ef82911b7465)
+     - ![FastAPI Interface](https://github.com/R4GB0Y/Model-Deployment/blob/main/fastAPI1.PNG?raw=true)
+
      - ![Postman Test](https://github.com/R4GB0Y/Model-Deployment/assets/76519142/4dbf6aee-1aac-4802-829f-32f8adbdbb46)
 
 ## 2. API Containerization with Docker
