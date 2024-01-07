@@ -25,7 +25,7 @@ Leverage TensorFlow Extended (TFX) for deploying transformer models. Highlights 
 Assess the robustness of your deployments under varying loads using Locust. This includes:
    - **Performance Testing Guide:** Detailed instructions for conducting load tests.
    - **Locust Testing Screenshot:** Evidence of load testing in practice.
-     - ![Locust Load Test](https://github.com/R4GB0Y/Model-Deployment/assets/76519142/57675693-de26-41af-aac5-45706db5e5f0)
+     - ![Locust Load Test]([https://github.com/R4GB0Y/Model-Deployment/assets/76519142/57675693-de26-41af-aac5-45706db5e5f0](https://github.com/R4GB0Y/Model-Deployment/blob/main/result.PNG))
 
 ## Getting Started
 To begin, navigate to the respective directories for detailed instructions on each deployment method:
